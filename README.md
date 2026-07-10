@@ -8,7 +8,7 @@ in production, not just in a demo.
 Currently: Senior DevOps Engineer at **Adform**, running Kubernetes across
 on-prem OpenStack and AWS.
 
-📍 Open to relocation (Germany / Netherlands, EU Blue Card eligible) · 📧 jaihindnishad@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaihind-nishad-007)
+ 📧 jaihindnishad@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaihind-nishad-007)
 
 ---
 
