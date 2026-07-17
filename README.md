@@ -47,4 +47,4 @@ on-prem OpenStack and AWS.
 
 ---
 
-<sub>Reach out about Senior DevOps / SRE / Platform / Cloud Engineer roles — I'm actively interviewing.</sub>
+<sub>Reach out about Senior DevOps / SRE / Platform / Cloud Engineer roles — I'm actively Freelancing.</sub>
