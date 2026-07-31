@@ -39,6 +39,10 @@ on-prem OpenStack and AWS.
 | [`k8s-disaster-recovery-velero`](https://github.com/jnnishad/k8s-disaster-recovery-velero) | Velero backup schedules, restore runbook, verification tooling |
 | [`python-devops-toolkit`](https://github.com/jnnishad/python-devops-toolkit) | CLI for safe node draining, GitOps drift, cost-anomaly & secret-rotation, chaos testing — fully unit tested |
 | [`pulumi-hybrid-cluster-csharp`](https://github.com/jnnishad/pulumi-hybrid-cluster-csharp) | Pulumi/C# — Cluster API hybrid cluster, Azure control plane + Hetzner workers |
+| [`k8s-backup-operator`](https://github.com/jnnishad/k8s-backup-operator) | Go CRD operator (kubebuilder/controller-runtime) — reconciles `PostgresBackup` into scheduled logical backups to S3 |
+| [`istio-progressive-delivery`](https://github.com/jnnishad/istio-progressive-delivery) | Istio + Argo Rollouts — canary traffic shifting driven by live Prometheus analysis, auto-abort on error-rate breach |
+| [`supply-chain-security`](https://github.com/jnnishad/supply-chain-security) | SBOM + keyless cosign signing/attestation + Kyverno admission-time verification, wired into CI |
+| [`gitops-fleet-management`](https://github.com/jnnishad/gitops-fleet-management) | ArgoCD ApplicationSets across a multi-cloud cluster fleet with RollingSync and drift detection |
 
 #### GitHub stats
 
