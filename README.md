@@ -8,7 +8,7 @@ in production, not just in a demo.
 Currently: Senior DevOps Engineer at **Adform**, running Kubernetes across
 on-prem OpenStack and AWS.
 
- 📧 jaihindnishad@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaihind-nishad-007)
+📧 jaihindnishad@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaihind-nishad-007)
 
 ---
 
@@ -46,8 +46,9 @@ on-prem OpenStack and AWS.
 
 #### GitHub stats
 
-![Jaihind's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnishad&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jnnishad&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/jnnishad?label=Followers&style=flat)
+
+32 public repos · primary languages: Python, Go, HCL (Terraform), Shell
 
 ---
 
